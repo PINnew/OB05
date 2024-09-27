@@ -2,7 +2,7 @@ import pygame
 pygame.init()
 import time
 
-
+#Работа на уроке
 #Создания окна, начало.
 window_size = (800, 600)
 screen = pygame.display.set_mode(window_size)

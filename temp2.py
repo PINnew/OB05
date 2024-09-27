@@ -3,7 +3,7 @@ import sys
 from pygame.color import THECOLORS
 
 pygame.init()
-
+# Дополнительное занятие, работа с фигурами
 screen = pygame.display.set_mode((800, 600))
 screen.fill(THECOLORS['orange'])
 r = pygame.Rect(300, 400, 200, 200)
